@@ -6,7 +6,7 @@ Pour cloner le repository and changer directement son nom:
 
 - git clone https://github.com/tomfrx12/template_react.git nomfichier
 
-Installer les dependencies node_modules:
+Installer le fichier node_modules:
 
 - cd nomfichier
 - npm install
