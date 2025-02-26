@@ -8,6 +8,7 @@ Pour cloner le repository and changer directement son nom:
 
 Installer les dependencies node_modules:
 
+- cd nomfichier
 - npm install
 
 Currently, two official plugins are available:
