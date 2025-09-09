@@ -5,6 +5,7 @@ import StraightAnglePieChart from "./components/StraightAnglePieChart";
 import StackedBarChart from "./components/StackedBarChart";
 import SimpleLineChart from "./components/SimpleLineChart";
 import ChooseStudent from "./components/ChooseStudent";
+import SimpleRadarChart from "./components/SimpleRadarChart";
 
 function App() {
  return (
@@ -30,6 +31,11 @@ function App() {
             <Card text="Nombres d'étudiants présent (Par Spé)" className="h-150! w-150!">
                 <StackedBarChart/>
             </Card>
+            <Card text="Radar compétences élève" className="h-150! w-150!">
+                <SimpleRadarChart/>
+            </Card>
+        </div>
+        <div className="p-8 flex justify-around">
             <Card text="Nombres d'étudiants présent (Par Spé)" className="h-150! w-150!">
                 <SimpleLineChart/>
             </Card>
