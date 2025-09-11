@@ -10,6 +10,7 @@ Installer le fichier node_modules:
 
 - cd nomfichier
 - npm install
+- npm install @emotion/react @emotion/styled @mui/x-charts @tailwindcss/vite chart.js react react-calendar react-dom react-icons react-router recharts tailwindcss
 
 Currently, two official plugins are available:
 

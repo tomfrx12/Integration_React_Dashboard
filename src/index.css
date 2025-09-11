@@ -1,1 +1,14 @@
 @import "tailwindcss";
+
+@layer base {
+    :root {
+        --color-black: #0D0619;
+        --color-grey: #5e5959;
+        --color-red: #e94a34;
+        --color-blue: #00a5a5;
+        --color-yellow: #fec800;
+        
+        font-family: "Poppins", sans-serif;
+        color: var(--color-black);
+    }
+}
