@@ -1,10 +1,10 @@
 # React + Vite
 
-Ceci est un template React executé avec Vite.
+Ceci est une Intégration fais en React executé avec Vite d'un dashboard que j'ai réalisé pour un rendu à mon école.
 
 Pour cloner le repository and changer directement son nom:
 
-- git clone https://github.com/tomfrx12/template_react.git nomfichier
+- git clone https://github.com/tomfrx12/Integration_React_Dashboard.git nomfichier
 
 Installer le fichier node_modules:
 
